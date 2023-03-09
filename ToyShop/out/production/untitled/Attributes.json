@@ -1,0 +1,152 @@
+{
+    "doll" : [
+      {
+        "Name": "Anna",
+        "Feature": "Blonde hair"
+      },
+      {
+        "Name": "Belle",
+        "Feature": "Wife of beast"
+      },
+      {
+        "Name": "Ariel",
+        "Feature": "Mermand"
+      },
+      {
+        "Name": "Aurora",
+        "Feature": "Sleeping beauty"
+      },
+      {
+        "Name": "Mulan",
+        "Feature": "Soldier"
+      },
+      {
+        "Name": "Whiteshow",
+        "Feature": "Friend of gnomes"
+      },
+      {
+        "Name": "Rapunzel",
+        "Feature": "Looooong hair"
+      },
+      {
+        "Name": "Moana",
+        "Feature": "Gawaii girl"
+      },
+      {
+        "Name": "Elza",
+        "Feature": "Queen of snow"
+      },
+      {
+        "Name": "Barbie",
+        "Feature": "Pink dress"
+      },
+      {
+        "Name": "Ken",
+        "Feature": "muscules"
+      },
+      {
+        "Name": "Bratz",
+        "Feature": "Big eyes"
+      }
+    ],
+    "car" : [
+      {
+        "Name": "Mazda",
+        "Feature": "Engine 5"
+      },
+      {
+        "Name": "BMW",
+        "Feature": "four-wheel drive"
+      },
+      {
+        "Name": "Volga",
+        "Feature": "long body"
+      },
+      {
+        "Name": "Geely",
+        "Feature": "Safety car"
+      },
+      {
+        "Name": "Haval",
+        "Feature": "Chineise car"
+      },
+      {
+        "Name": "Lada Granta",
+        "Feature": "Low price"
+      },
+      {
+        "Name": "Audi",
+        "Feature": "4 rings"
+      },
+      {
+        "Name": "Kia Rio",
+        "Feature": "Korea"
+      },
+      {
+        "Name": "Tesla",
+        "Feature": "Electric"
+      },
+      {
+        "Name": "Toyota",
+        "Feature": "Right wheel"
+      },
+      {
+        "Name": "Volvo",
+        "Feature": "For vampires"
+      },
+      {
+        "Name": "Jaguar",
+        "Feature": "Roar car"
+      }
+    ],
+    "robot" : [
+      {
+        "Name": "Optimus",
+        "Feature": "Head autobot"
+      },
+      {
+        "Name": "Bumble-bee",
+        "Feature": "Yellow autobot"
+      },
+      {
+        "Name": "Megatron",
+        "Feature": "Head decepticon"
+      },
+      {
+        "Name": "T-800",
+        "Feature": "Terminator"
+      },
+      {
+        "Name": "C-3PO",
+        "Feature": "Star wars"
+      },
+      {
+        "Name": "R2-D2",
+        "Feature": "Star wars"
+      },
+      {
+        "Name": "She",
+        "Feature": "II"
+      },
+      {
+        "Name": "T-1000",
+        "Feature": "Liquid terminator"
+      },
+      {
+        "Name": "Power rangers",
+        "Feature": "Big robot"
+      },
+      {
+        "Name": "Fedor",
+        "Feature": "Russian space robot"
+      },
+      {
+        "Name": "Dog",
+        "Feature": "Boston dynamics"
+      },
+      {
+        "Name": "CES 2022",
+        "Feature": "Humanoid Robot"
+      }
+    ]
+}
